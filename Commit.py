@@ -3,3 +3,4 @@ if hungry =="yes":
     print ("Eat ")
 else:
     print("Sleep")
+print ("hola")
